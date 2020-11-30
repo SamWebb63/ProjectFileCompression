@@ -1,16 +1,11 @@
 # ProjectFileCompression
 
-Author: Sam Webb
+This program features two forms of compression: Huffman and LZW. SchubsH.java uses Huffman while SchubsL.java uses LZW. Finally Deschubs takes both files and decompresses both of them.
 
-Cooperated with Adam Garcia on this assignment
+# How to run and test
 
-Date: 11/28/2020
-
-Course: CS 375
-
-Program Name: Project File Compression
-
-Program Description: This program takes .txt files and compresses them into either a .hh file or a .ll file depending on which program you are running. It also decompresses - or expands - .hh and .ll files into .txt files
-
-Compile: mvn compile
-Excute: mvn test
+1) Download this repository
+2) Save the file wherever you like and uncompress the folder
+3) Go to the command prompt and navigate to where the folder is
+4) Compile with the command: mvn compile
+5) Execute with the command: mvn test
