@@ -1,6 +1,7 @@
 # ProjectFileCompression
 
 Author: Sam Webb
+
 Cooperated with Adam Garcia on this assignment
 
 Date: 11/28/2020
