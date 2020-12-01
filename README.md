@@ -11,5 +11,7 @@ This program features two forms of compression: Huffman and LZW. SchubsH.java us
 5) Execute with the command: mvn test
 
 #Author
+
 Samantha Webb
+
 Worked in collaboration with Adam Garcia
