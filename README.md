@@ -9,3 +9,7 @@ This program features two forms of compression: Huffman and LZW. SchubsH.java us
 3) Go to the command prompt and navigate to where the folder is
 4) Compile with the command: mvn compile
 5) Execute with the command: mvn test
+
+#Author
+Samantha Webb
+Worked in collaboration with Adam Garcia
